@@ -1,1 +1,6 @@
 [24-Feb-2026 00:09:50 UTC] PHP Warning:  Undefined array key "host" in /workspaces/-UX-221-Assignment-1/.wordpress/wp-includes/pluggable.php on line 1721
+[24-Feb-2026 02:05:04 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 28672 bytes) in /workspaces/-UX-221-Assignment-1/.wordpress/wp-admin/includes/template.php on line 384
+[24-Feb-2026 02:05:14 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 28672 bytes) in /workspaces/-UX-221-Assignment-1/.wordpress/wp-admin/includes/template.php on line 384
+[24-Feb-2026 02:05:24 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 28672 bytes) in /workspaces/-UX-221-Assignment-1/.wordpress/wp-admin/includes/template.php on line 384
+[24-Feb-2026 02:05:34 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 28672 bytes) in /workspaces/-UX-221-Assignment-1/.wordpress/wp-admin/includes/template.php on line 384
+[24-Feb-2026 02:05:37 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 12288 bytes) in /workspaces/-UX-221-Assignment-1/.wordpress/wp-admin/includes/template.php on line 843
